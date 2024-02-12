@@ -1,6 +1,5 @@
 RENCANA BELAJAR REACTJS
-- Belajar Component
-  * belajar komponen react
+- Component
 - Props
 - Event Handler
 - state
